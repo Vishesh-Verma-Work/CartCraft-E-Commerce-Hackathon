@@ -95,6 +95,16 @@ const Header: React.FC = () => {
             >
               Deals
             </Link>
+            <Link 
+              to="/ai" 
+              className={`px-3 py-2 rounded-md text-sm font-medium ${
+                isScrolled 
+                  ? 'text-gray-700 hover:bg-gray-100' 
+                  : 'text-white hover:bg-indigo-700'
+              }`}
+            >
+              AI Suggestion
+            </Link>
           </nav>
 
           {/* Desktop Search and Icons */}
@@ -283,6 +293,12 @@ const Header: React.FC = () => {
             className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-100"
           >
             Deals
+          </Link>
+          <Link 
+            to="/ai" 
+            className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-100"
+          >
+            AI Suggestion
           </Link>
 
           {isLoggedIn ? (
