@@ -218,5 +218,226 @@
     "rating": 4.7,
     "stock": 4,
     "featured": true
+  },
+  {
+    "id": 212,
+    "name": "Smart Wireless Charger Pad",
+    "description": "Fast-charging pad compatible with Qi-enabled devices. Sleek design with LED indicators for charging status.",
+    "price": 1299,
+    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.5,
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": 213,
+    "name": "Noise Cancelling Over-Ear Headphones",
+    "description": "Comfortable over-ear headphones with advanced noise cancellation and up to 20-hour battery life.",
+    "price": 4499,
+    "image": "https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": 10,
+    "featured": true
+  },
+  {
+    "id": 214,
+    "name": "4K Action Camera",
+    "description": "Rugged action camera with 4K recording, waterproof casing, and multiple mounting options for adventure enthusiasts.",
+    "price": 8999,
+    "image": "https://images.pexels.com/photos/1252776/pexels-photo-1252776.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 8,
+    "featured": false
+  },
+  {
+    "id": 215,
+    "name": "Portable Bluetooth Speaker Pro",
+    "description": "Compact Bluetooth speaker with enhanced bass, 360° sound, and 15-hour battery life. Ideal for outdoor events.",
+    "price": 3499,
+    "image": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.6,
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": 216,
+    "name": "Smart Home Hub",
+    "description": "Centralized smart hub that connects all your smart devices. Voice control compatibility and intuitive app integration.",
+    "price": 5999,
+    "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.3,
+    "stock": 12,
+    "featured": true
+  },
+  {
+    "id": 217,
+    "name": "Lightweight Trail Running Shoes",
+    "description": "Engineered for speed and comfort, these trail running shoes offer excellent grip and cushioning on rugged terrain.",
+    "price": 3599,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Footwear",
+    "rating": 4.5,
+    "stock": 20,
+    "featured": true
+  },
+  {
+    "id": 218,
+    "name": "Casual Loafers",
+    "description": "Comfortable and stylish loafers perfect for everyday wear, crafted with premium materials.",
+    "price": 1999,
+    "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Footwear",
+    "rating": 4.2,
+    "stock": 25,
+    "featured": false
+  },
+  {
+    "id": 219,
+    "name": "High-Performance Basketball Sneakers",
+    "description": "Designed for maximum agility and support on the court, these sneakers deliver superior traction and comfort.",
+    "price": 4499,
+    "image": "https://images.pexels.com/photos/210211/pexels-photo-210211.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Footwear",
+    "rating": 4.7,
+    "stock": 18,
+    "featured": true
+  },
+  {
+    "id": 220,
+    "name": "Comfortable Slip-On Sandals",
+    "description": "Easy-to-wear slip-on sandals designed for all-day comfort with a stylish, minimal look.",
+    "price": 1299,
+    "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Footwear",
+    "rating": 4.3,
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 221,
+    "name": "Designer Silk Scarf",
+    "description": "Luxurious silk scarf featuring intricate patterns. Elevate your outfit with this timeless accessory.",
+    "price": 799,
+    "image": "https://images.pexels.com/photos/375576/pexels-photo-375576.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.4,
+    "stock": 40,
+    "featured": false
+  },
+  {
+    "id": 222,
+    "name": "Classic Wrist Watch",
+    "description": "Elegant wrist watch with a minimalist design. Crafted with stainless steel and genuine leather for a timeless look.",
+    "price": 4999,
+    "image": "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.8,
+    "stock": 10,
+    "featured": true
+  },
+  {
+    "id": 223,
+    "name": "Trendy Denim Jacket",
+    "description": "Contemporary denim jacket with a slim fit. Perfect for casual outings and layering during cooler days.",
+    "price": 2999,
+    "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.3,
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": 224,
+    "name": "Handcrafted Leather Belt",
+    "description": "Premium leather belt with meticulous craftsmanship. Designed to add a touch of sophistication to any outfit.",
+    "price": 1299,
+    "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.5,
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": 225,
+    "name": "Modern Floor Lamp",
+    "description": "Contemporary floor lamp with a sleek design and adjustable brightness. Ideal for ambient lighting in living spaces.",
+    "price": 3499,
+    "image": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.6,
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 226,
+    "name": "Contemporary Wall Clock",
+    "description": "Stylish wall clock with a minimalist design and silent movement. Perfect for modern home décor.",
+    "price": 1599,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.4,
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 227,
+    "name": "Elegant Ceramic Vase",
+    "description": "Beautiful ceramic vase with intricate detailing. A perfect centerpiece for your home or office.",
+    "price": 899,
+    "image": "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.3,
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": 228,
+    "name": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with adjustable settings and lumbar support. Designed for long hours of work.",
+    "price": 7999,
+    "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.7,
+    "stock": 8,
+    "featured": true
+  },
+  {
+    "id": 229,
+    "name": "Adjustable Yoga Block Set",
+    "description": "Durable yoga block set that can be adjusted to different thicknesses for enhanced support during practice.",
+    "price": 699,
+    "image": "https://images.pexels.com/photos/375737/pexels-photo-375737.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.4,
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": 230,
+    "name": "Resistance Loop Bands",
+    "description": "Set of resistance bands in varying strengths for versatile workouts. Ideal for strength training and stretching.",
+    "price": 999,
+    "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.5,
+    "stock": 25,
+    "featured": false
+  },
+  {
+    "id": 231,
+    "name": "Portable Dumbbell Set",
+    "description": "Compact dumbbell set with adjustable weights, perfect for home workouts and strength training on the go.",
+    "price": 5499,
+    "image": "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.6,
+    "stock": 10,
+    "featured": true
   }
+  
 ]
