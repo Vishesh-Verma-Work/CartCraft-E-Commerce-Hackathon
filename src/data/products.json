@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Earbuds",
+    "description": "High-quality sound with active noise cancellation and 30-hour battery life. Perfect for music lovers and professionals on the go.",
+    "price": 2499,
+    "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.5,
+    "stock": 15,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Ultra Comfort Running Shoes",
+    "description": "Lightweight, durable shoes with enhanced cushioning for everyday running and training. Breathable mesh upper with responsive foam midsole.",
+    "price": 2999,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Footwear",
+    "rating": 4.7,
+    "stock": 8,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "description": "Track your health metrics, workouts, and sleep patterns. Water-resistant with a 7-day battery life and smartphone notifications.",
+    "price": 3499,
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.3,
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Designer Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots, bill compartment, and RFID blocking technology. Sleek and minimalist design.",
+    "price": 999,
+    "image": "https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.8,
+    "stock": 20,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Premium Coffee Maker",
+    "description": "Programmable coffee maker with thermal carafe to keep your coffee hot for hours. Adjustable brew strength and auto-shutoff feature.",
+    "price": 4999,
+    "image": "https://images.pexels.com/photos/6207297/pexels-photo-6207297.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.6,
+    "stock": 7,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Organic Cotton T-shirt",
+    "description": "Soft, breathable organic cotton t-shirt that's perfect for everyday wear. Sustainably made with eco-friendly dyes.",
+    "price": 699,
+    "image": "https://images.pexels.com/photos/6311387/pexels-photo-6311387.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.2,
+    "stock": 25,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Professional DSLR Camera",
+    "description": "High-resolution camera with advanced autofocus, 4K video recording, and interchangeable lenses. Perfect for photography enthusiasts.",
+    "price": 64999,
+    "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.9,
+    "stock": 3,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Double-walled insulated bottle that keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof and eco-friendly.",
+    "price": 799,
+    "image": "https://images.pexels.com/photos/4065891/pexels-photo-4065891.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.4,
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Wireless Gaming Mouse",
+    "description": "Precision gaming mouse with customizable RGB lighting, programmable buttons, and ultra-low latency. Up to 60 hours of battery life.",
+    "price": 3299,
+    "image": "https://images.pexels.com/photos/5082580/pexels-photo-5082580.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": 10,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat with Carrying Strap",
+    "description": "Non-slip, eco-friendly yoga mat with alignment markings. Extra thick for joint protection and comes with a carrying strap.",
+    "price": 1499,
+    "image": "https://images.pexels.com/photos/4325479/pexels-photo-4325479.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.5,
+    "stock": 14,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Designer Sunglasses",
+    "description": "Polarized sunglasses with UV protection and stylish frames. Lightweight and durable for everyday wear.",
+    "price": 1999,
+    "image": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.3,
+    "stock": 9,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof speaker with immersive 360° sound and deep bass. 20-hour battery life and built-in microphone for calls.",
+    "price": 2199,
+    "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.6,
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "Smart LED TV",
+    "description": "55-inch 4K Ultra HD Smart LED TV with HDR support and built-in streaming apps. Crystal clear picture quality and immersive sound.",
+    "price": 49999,
+    "image": "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": 5,
+    "featured": true
+  },
+  {
+    "id": 14,
+    "name": "Leather Crossbody Bag",
+    "description": "Stylish leather crossbody bag with adjustable strap and multiple compartments. Perfect for everyday use.",
+    "price": 2499,
+    "image": "https://images.pexels.com/photos/904350/pexels-photo-904350.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fashion",
+    "rating": 4.6,
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Smart Home Security Camera",
+    "description": "1080p HD wireless security camera with night vision and two-way audio. Easy setup and smartphone notifications.",
+    "price": 3999,
+    "image": "https://images.pexels.com/photos/371949/pexels-photo-371949.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.4,
+    "stock": 8,
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Adjustable Dumbbell Set",
+    "description": "Space-saving adjustable dumbbell set with weight range from 5-25kg. Perfect for home workouts.",
+    "price": 12999,
+    "image": "https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.7,
+    "stock": 6,
+    "featured": true
+  },
+  {
+    "id": 17,
+    "name": "Wireless Mechanical Keyboard",
+    "description": "Premium mechanical keyboard with RGB backlighting and hot-swappable switches. Long battery life and ergonomic design.",
+    "price": 7999,
+    "image": "https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Electronics",
+    "rating": 4.5,
+    "stock": 9,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "Air Purifier",
+    "description": "HEPA air purifier with activated carbon filter. Removes 99.97% of airborne particles and reduces odors.",
+    "price": 8999,
+    "image": "https://images.pexels.com/photos/4429141/pexels-photo-4429141.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.6,
+    "stock": 7,
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "Resistance Bands Set",
+    "description": "Set of 5 resistance bands with different resistance levels. Includes carrying bag and exercise guide.",
+    "price": 999,
+    "image": "https://images.pexels.com/photos/4397833/pexels-photo-4397833.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Fitness",
+    "rating": 4.3,
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Smart Robot Vacuum",
+    "description": "Wi-Fi enabled robot vacuum with mapping technology and automatic charging. Schedule cleaning from your smartphone.",
+    "price": 24999,
+    "image": "https://images.pexels.com/photos/4087992/pexels-photo-4087992.jpeg?auto=compress&cs=tinysrgb&w=1260",
+    "category": "Home",
+    "rating": 4.7,
+    "stock": 4,
+    "featured": true
+  }
+]
