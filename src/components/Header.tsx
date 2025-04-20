@@ -17,12 +17,12 @@ const Header: React.FC = () => {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
   
   // Toggle search bar visibility
-  const toggleSearch = () => {
-    setIsSearchVisible(!isSearchVisible);
-    if (!isSearchVisible) {
-      setTimeout(() => document.getElementById('search-input')?.focus(), 100);
-    }
-  };
+  // const toggleSearch = () => {
+  //   setIsSearchVisible(!isSearchVisible);
+  //   if (!isSearchVisible) {
+  //     setTimeout(() => document.getElementById('search-input')?.focus(), 100);
+  //   }
+  // };
 
   // Handle search submission
   const handleSearch = (e: React.FormEvent) => {
@@ -119,7 +119,7 @@ const Header: React.FC = () => {
             </form>
             
             {/* Search button */}
-            <button 
+            {/* <button 
               onClick={toggleSearch}
               className={`p-1 rounded-full ${
                 isScrolled 
@@ -129,7 +129,7 @@ const Header: React.FC = () => {
               aria-label="Search"
             >
               <Search size={20} />
-            </button>
+            </button> */}
             
             {/* Cart */}
             <Link 
