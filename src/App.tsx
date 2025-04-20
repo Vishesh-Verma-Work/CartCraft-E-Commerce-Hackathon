@@ -9,6 +9,7 @@ import CartPage from './pages/CartPage';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 import CategoriesPage from './pages/CategoriesPage';
+import PersonalShopper from './pages/PersonalShopper';
 import DealsPage from './pages/DealsPage';
 import { CartProvider } from './context/CartContext';
 import { AuthProvider } from './context/AuthContext';
@@ -28,6 +29,7 @@ function App() {
                 <Route path="/login" element={<LoginPage />} />
                 <Route path="/signup" element={<SignupPage />} />
                 <Route path="/categories" element={<CategoriesPage />} />
+                <Route path="/ai" element={<PersonalShopper />} />
                 <Route path="/categories/:category" element={<CategoriesPage />} />
                 <Route path="/deals" element={<DealsPage />} />
               </Routes>
