@@ -274,64 +274,30 @@ export default SignupPage;
 
 
 
+//                 id="email"
+//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+//                 <Mail className="h-5 w-5 text-gray-400" />
+//               </div>
+//               <input
+//                 id="email"
+//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+//                 <Mail className="h-5 w-5 text-gray-400" />
+//               </div>
+//               <input
 
 
+//                 id="email"
+//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+//                 <Mail className="h-5 w-5 text-gray-400" />
+//               </div>
+//               <input
+//                 id="email"
+//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+//                 <Mail className="h-5 w-5 text-gray-400" />
+//               </div>
+//               <input
 
-// return (
-//   <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-//     <div className="max-w-md w-full space-y-8">
-//       <div className="text-center">
-//         <h2 className="mt-6 text-3xl font-extrabold text-gray-900">
-//           Create your account
-//         </h2>
-//         <p className="mt-2 text-sm text-gray-600">
-//           Join CartCraft to start shopping with best deals
-//         </p>
-//       </div>
-      
-//       <div className="mt-8 bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
-//         {error && (
-//           <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-6">
-//             <div className="flex">
-//               <div className="ml-3">
-//                 <p className="text-sm text-red-700">{error}</p>
-//               </div>
-//             </div>
-//           </div>
-//         )}
-        
-//         <form className="space-y-6" onSubmit={handleSubmit}>
-//           <div>
-//             <label htmlFor="name" className="block text-sm font-medium text-gray-700">
-//               Full Name
-//             </label>
-//             <div className="mt-1 relative rounded-md shadow-sm">
-//               <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <User className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="name"
-//                 name="name"
-//                 type="text"
-//                 autoComplete="name"
-//                 required
-//                 value={name}
-//                 onChange={(e) => setName(e.target.value)}
-//                 className="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
-//                 placeholder="John Doe"
-//               />
-//             </div>
-//           </div>
 
-//           <div>
-//             <label htmlFor="email" className="block text-sm font-medium text-gray-700">
-//               Email address
-//             </label>
-//             <div className="mt-1 relative rounded-md shadow-sm">
-//               <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
 //                 id="email"
 //                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
 //                 <Mail className="h-5 w-5 text-gray-400" />
@@ -342,49 +308,8 @@ export default SignupPage;
 //                 <Mail className="h-5 w-5 text-gray-400" />
 //               </div>
 //               <input
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email""h-5 w-5 text-gray-400" />
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email""h-5 w-5 text-gray-400" />
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
-//                 id="email"
-//                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-//                 <Mail className="h-5 w-5 text-gray-400" />
-//               </div>
-//               <input
+
+
 //                 id="email"
 //                 name="email"Name="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
 //                 <Mail className="h-5 w-5 text-gray-400" />
