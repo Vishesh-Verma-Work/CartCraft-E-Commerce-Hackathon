@@ -10,8 +10,7 @@ const CartPage: React.FC = () => {
   const [couponCode, setCouponCode] = useState<string>('');
   const [appliedCoupon, setAppliedCoupon] = useState<string | null>(null);
   const [discount, setDiscount] = useState<number>(0);
-
-  // Calculate shipping cost (free for orders above ₹499)
+  
   const shippingCost = cartTotal > 499 ? 0 : 49;
 
   // Calculate final amount
